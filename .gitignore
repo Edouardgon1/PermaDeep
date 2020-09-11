@@ -152,3 +152,12 @@ dmypy.json
 .pytype/
 
 # End of https://www.toptal.com/developers/gitignore/api/python,jupyternotebooks
+*/y.pickle
+.gitignore
+*/X.pickle
+.vscode/*
+X.pickle
+y.pickle
+2.Images
+1.Codes/Code_legumes/logs/
+1.Codes/.vscode
