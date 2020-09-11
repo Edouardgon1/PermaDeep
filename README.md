@@ -12,7 +12,7 @@ docker build -t nomducompte/nomdelimage .
 
 Une fois l'image construite il faut créer un container
 ```
-docker run -d -p 8888:8888 -v /chemin/absolu/dossierprojet:/code
+docker run -d -p 8888:8888 -v /chemin/absolu/dossierprojet:/code nomducompte/nomdelimage
 ```
 voilà l'image tourne maintenant sur votre machine
 
