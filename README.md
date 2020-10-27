@@ -4,9 +4,11 @@
 Ce projet repose sur une image docker
 La première étape est de construire cette image
 
+Note : Le nom du compte peu être ce que vous voulez. Il en va de même pdour le nom de l'image.
+
 
 ```
-cd dossiercloneProjet/
+cd dossiercloneProjet/4.Docker/
 docker build -t nomducompte/nomdelimage .
 ```
 
