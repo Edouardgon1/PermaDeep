@@ -8,7 +8,7 @@ Note : Le nom du compte peu être ce que vous voulez. Il en va de même pdour le
 
 
 ```
-cd dossiercloneProjet/4.Docker/
+cd PermaDeep/4.Docker/
 docker build -t .
 ```
 
