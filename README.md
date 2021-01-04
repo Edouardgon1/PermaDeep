@@ -9,7 +9,7 @@ Note : Le nom du compte peu être ce que vous voulez. Il en va de même pdour le
 
 ```
 cd PermaDeep/4.Docker/
-docker build -t [TAG_NAME]
+docker build -t [TAG_NAME] .
 ```
 
 Une fois l'image construite il faut créer un container
