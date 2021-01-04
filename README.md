@@ -18,6 +18,11 @@ docker run -d -p 8888:8888 -v /chemin/absolu/dossierprojet:/code nomducompte/nom
 ```
 voilà l'image tourne maintenant sur votre machine
 
+Pour lister les images il faut saisir la commande suivante:
+```
+docker images -a
+```
+
 pour commencer à développer il vous faut l'url du serveur jupyter
 ```
 docker exec -it nomduconatainer bash
