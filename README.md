@@ -4,7 +4,7 @@
 Ce projet repose sur une image docker
 La première étape est de construire cette image
 
-Note : Le nom du compte peu être ce que vous voulez. Il en va de même pdour le nom de l'image.
+Note : Le nom du compte peut être ce que vous voulez. Il en va de même pour le nom de l'image.
 
 
 ```
